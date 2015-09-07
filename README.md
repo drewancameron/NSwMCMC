@@ -7,3 +7,6 @@ The script should follow the basic recipe seen in John Skilling's lighthouse exa
 Namely, each replacement 'live particle' should be sought via random walk MCMC.
 
 To facilitate the use of this script across multiple example applications the prior & likelihood should be treated as external functions.  Specifying the input and output requirements of these is the first task on the to-do list here! 
+
+# python subdirectory
+Python code that does this. (c) 2015 Brendon J. Brewer.
